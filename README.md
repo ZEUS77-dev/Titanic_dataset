@@ -1,4 +1,4 @@
 # Titanic_dataset
 
-#### accuracy = 80.7%
+#### accuracy = 83.4%
 #### model = logistic regression
